@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Gelasio';
+  font-style: italic;
+  font-weight: 400;
+  font-display: optional;
+  src: url(../fonts/cIf_MaFfvUQxTTqS9CuhZA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gelasio';
+  font-style: italic;
+  font-weight: 500;
+  font-display: optional;
+  src: url(../fonts/cIf6MaFfvUQxTTqS9CuZkGImmA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gelasio';
+  font-style: italic;
+  font-weight: 600;
+  font-display: optional;
+  src: url(../fonts/cIf6MaFfvUQxTTqS9CuZvGUmmA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gelasio';
+  font-style: italic;
+  font-weight: 700;
+  font-display: optional;
+  src: url(../fonts/cIf6MaFfvUQxTTqS9CuZ2GQmmA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gelasio';
+  font-style: normal;
+  font-weight: 400;
+  font-display: optional;
+  src: url(../fonts/cIf9MaFfvUQxTTqSxCk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gelasio';
+  font-style: normal;
+  font-weight: 500;
+  font-display: optional;
+  src: url(../fonts/cIf4MaFfvUQxTTqS_N2CRGE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gelasio';
+  font-style: normal;
+  font-weight: 600;
+  font-display: optional;
+  src: url(../fonts/cIf4MaFfvUQxTTqS_PGFRGE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Gelasio';
+  font-style: normal;
+  font-weight: 700;
+  font-display: optional;
+  src: url(../fonts/cIf4MaFfvUQxTTqS_JWERGE.ttf) format('truetype');
+}
